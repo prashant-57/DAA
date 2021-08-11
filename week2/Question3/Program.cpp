@@ -3,9 +3,9 @@
 using namespace std;
 int main() 
 {
-    int n,k,i,j,t,key;
-    cin>>t;
-    for(int i=0; i<t; ++i)
+    int n,k,i,j,p,key;
+    cin>>p;
+    for(int i=0; i<p; ++i)
     {
         cin>>n;
         int arr[n],f=0;
