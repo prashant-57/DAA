@@ -1,7 +1,7 @@
 #include<iostream>
 #include<math.h>
 using namespace std;
-int main()
+int main() 
 {
     int n,k,i,j,p,key;
     cin>>p;
