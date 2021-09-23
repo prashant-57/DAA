@@ -1,2 +1,2 @@
-Question 1- Insertion Sort
-Question 2- Selection Sort
+Question 1-  Insertion Sort
+Question 2-  Selection Sort
